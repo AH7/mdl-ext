@@ -1,4 +1,5 @@
 # mdl-ext
+[![Known Vulnerabilities](https://snyk.io/test/github/benmag1/mdl-ext/badge.svg)](https://snyk.io/test/github/benmag1/mdl-ext)
 
 [![travis build](https://img.shields.io/travis/leifoolsen/mdl-ext.svg?style=flat-square)](https://travis-ci.org/leifoolsen/mdl-ext)
 [![codecov coverage](https://img.shields.io/codecov/c/github/leifoolsen/mdl-ext.svg?style=flat-square)](https://codecov.io/github/leifoolsen/mdl-ext)
